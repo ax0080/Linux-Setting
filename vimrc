@@ -13,7 +13,7 @@ set ts=2
 set sw=2
 set nu
 set t_Co=256
-colorscheme darkblack_
+colorscheme desert
 "colorscheme onehalfdark
 "let g:airline_theme='onehalfdark'
 set hlsearch
